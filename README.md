@@ -14,21 +14,14 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 
 ## 🌱 I’m currently interested/learning in
 
-- backend
-- Cloud computing
-- DevOps
-- Mobile development
-- Game development ([Unity3D](https://unity.com/))
+- python
+- AI Developer
+- ML Developer
+- java
+- java screpte
+- react
 
 ## 👨🏻‍💻 Projects I made
-
-### 🎨 Hobby projects
-
-#### 🎮 Games
-
-- [Fox Tales game](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/fox-tales-game)
-- [Monster Chase game](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Unity-monsterChase-game)
-- [Matching Game](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/MatchingGame)
 
 ### 🎓 University projects
 
