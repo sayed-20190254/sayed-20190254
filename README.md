@@ -25,25 +25,26 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 
 ### 🎓 University projects
 
+#### AI Algorithms
+
+-  [CNN](https://github.com/sayed-20190254/CNN)
+-  [NN](https://github.com/sayed-20190254/neural-network)
+-  [GaussianNB](https://github.com/sayed-20190254/GaussianNB)
+-  [cnn-with-split-imge-sintroid](https://github.com/sayed-20190254/cnn-with-split-imge-sintroid)
+-  [yolov5](https://github.com/sayed-20190254/yolov5)
+-  [linear-regression](https://github.com/sayed-20190254/linear-regression-)
+
+
+
 #### Compression
 
 - [RedBlackTree](https://github.com/sayed-20190254/Red-black-tree)
 - [viterbi](https://github.com/sayed-20190254/viterbi)
-- [yolov5](https://github.com/sayed-20190254/yolov5)
-- [linear-regression](https://github.com/sayed-20190254/linear-regression-)
-- [CNN](https://github.com/sayed-20190254/CNN)
-- [NN](https://github.com/sayed-20190254/neural-network)
-- [GaussianNB](https://github.com/sayed-20190254/GaussianNB)
-- [cnn-with-split-imge-sintroid](https://github.com/sayed-20190254/cnn-with-split-imge-sintroid)
 
 #### Computer architecture
 
-- [AT&T Assembly sum and average of floating Numbers](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/AT_T-Assembly-adding-floatNumbers)
-- [Verilog Arithmetic Logic Unit](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Arithmetic-logic-unit)
+- [ArchV1](https://github.com/youseefmoemen/ArchV1)
 
-#### Operating Systems
-
-- 
 
 #### Genetic Algorithms
 
