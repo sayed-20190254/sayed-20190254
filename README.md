@@ -30,9 +30,11 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 - [RedBlackTree](https://github.com/sayed-20190254/Red-black-tree)
 - [viterbi](https://github.com/sayed-20190254/viterbi)
 - [yolov5](https://github.com/sayed-20190254/yolov5)
-- [FuzzyLogic](https://github.com/sayed-20190254/fuzzy_logic)
 - [linear-regression](https://github.com/sayed-20190254/linear-regression-)
-- 
+- [CNN](https://github.com/sayed-20190254/CNN)
+- [NN](https://github.com/sayed-20190254/neural-network)
+- [GaussianNB](https://github.com/sayed-20190254/GaussianNB)
+- [cnn-with-split-imge-sintroid](https://github.com/sayed-20190254/cnn-with-split-imge-sintroid)
 
 #### Computer architecture
 
@@ -41,14 +43,9 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 
 #### Operating Systems
 
-- [Linux CLI Emulator](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Linux-CLI-Emulator)
-
-#### Computer Graphics 
-
-- [Painter Program](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/painter-program)
+- 
 
 #### Genetic Algorithms
 
-- [Knapsack Genetic Algorithm](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Knapsack_GeneticAlgorithm)
-- [Fuzzy logic toolBox genetic algorithm](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Fuzzy_logic_toolBox_genetic_algorithm)
 - [A_star_algorithm](https://github.com/sayed-20190254/A_star_algorithm)
+- [FuzzyLogic](https://github.com/sayed-20190254/fuzzy_logic)
