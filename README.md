@@ -27,7 +27,7 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 
 #### Compression
 
-- [Huffman Coding compression algorithm](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Huffman_coding)
+- [RedBlackTree](https://github.com/sayed-20190254/Red-black-tree)
 - [Vector quantization](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/vector-quantization)
 
 #### Computer architecture
