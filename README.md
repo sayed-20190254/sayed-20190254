@@ -50,3 +50,4 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 
 - [Knapsack Genetic Algorithm](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Knapsack_GeneticAlgorithm)
 - [Fuzzy logic toolBox genetic algorithm](https://github.com/Abdallah-Mohamedo-Eid-Hassan20190330/Fuzzy_logic_toolBox_genetic_algorithm)
+- [A_star_algorithm](https://github.com/sayed-20190254/A_star_algorithm)
