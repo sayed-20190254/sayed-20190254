@@ -26,6 +26,7 @@ Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo Univers
 ### 🎓 University projects
 
 ####) AI Algorithms
+
 -[Graduation project](https://github.com/sayed-20190254/gp-traffic-accident-detection-)
 -  [GaussianNB](https://github.com/sayed-20190254/GaussianNB)
 -  [cnn-with-split-imge-sintroid](https://github.com/sayed-20190254/cnn-with-split-imge-sintroid)
