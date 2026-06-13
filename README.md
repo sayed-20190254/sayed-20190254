@@ -1,6 +1,7 @@
 # Hi there 👋 I am Sayed Shaaban 
 
-![Linkedin Badge](https://img.shields.io/badge/-Sayed-shaaban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-shaaban-7a9541236)
+![Linkedin Badge](https://img.shields.io/badge/sayed_shaaban-linked_In-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsayed-shaaban-7a9541236
+)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdallah-ellethy-536a72224.abdallah-ellethy-536a72224)
 
 Hey, it's me, Sayed Shaaban. I'm a computer science graduate from [Cairo University](https://cu.edu.eg/Home). A passionate programmer who wants to explore new grounds and ideas.
